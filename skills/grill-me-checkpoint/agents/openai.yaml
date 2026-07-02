@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me Checkpoint"
+  short_description: "Interview and save every answer as notes."
+  default_prompt: "Use $grill-me-checkpoint to grill me on this plan and checkpoint every answer."
